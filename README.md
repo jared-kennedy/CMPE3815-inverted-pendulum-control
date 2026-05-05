@@ -1,5 +1,5 @@
 # Inverted Pendulum Cart-Pole — CMPE3815
-**University of Vermont | Jared Kennedy (jbkenned)**
+**University of Vermont | Jared Kennedy Eva Yost Emmett Cline Lucey
 
 A belt-driven cart-pole inverted pendulum balanced by a cascaded PD/PI controller running entirely on an Arduino Uno R3.
 
