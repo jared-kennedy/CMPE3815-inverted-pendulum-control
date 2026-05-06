@@ -114,4 +114,4 @@ START_ANGLE   = 0.035 rad  ~2°, pole must be within this to arm
 - [x] PD pole controller + PI cart centering
 - [x] Motor calibration routine
 - [x] Safety limits (end-stop, pole fallen, overcurrent)
-- [x] First successful unassisted balance
+- [x] First successful unassisted balance for over 20s
